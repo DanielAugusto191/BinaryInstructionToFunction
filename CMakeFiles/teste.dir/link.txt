@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fno-rtti -fvisibility-inlines-hidden -shared -Wl,-soname,libteste.so -o libteste.so CMakeFiles/teste.dir/main.cpp.o   -L/home/pc2/llvm-project/build/./lib 

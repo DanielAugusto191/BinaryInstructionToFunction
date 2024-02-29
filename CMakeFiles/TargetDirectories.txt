@@ -1,0 +1,6 @@
+/home/pc2/workspace/testeLLVM/instToFunc/CMakeFiles/intrinsics_gen.dir
+/home/pc2/workspace/testeLLVM/instToFunc/CMakeFiles/omp_gen.dir
+/home/pc2/workspace/testeLLVM/instToFunc/CMakeFiles/acc_gen.dir
+/home/pc2/workspace/testeLLVM/instToFunc/CMakeFiles/teste.dir
+/home/pc2/workspace/testeLLVM/instToFunc/CMakeFiles/edit_cache.dir
+/home/pc2/workspace/testeLLVM/instToFunc/CMakeFiles/rebuild_cache.dir
