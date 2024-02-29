@@ -11,7 +11,7 @@ entry:
   ret i32 %mul
 }
 ```
-the %mul instruction will turn to a call to a function that calculates the mul.
+the %mul instruction will turn into a call to a function that calculates the mul.
 
 in C:
 ``` c
