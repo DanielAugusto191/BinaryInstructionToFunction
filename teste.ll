@@ -7,8 +7,6 @@ target triple = "x86_64-unknown-linux-gnu"
 define dso_local i32 @main(i32 noundef %argc, i8** noundef %argv) #0 {
 entry:
   %mul = mul nsw i32 %argc, %argc
-  %mul1 = mul nsw i32 %argc, %mul
-  %mul2 = mul nsw i32 2, %mul1
   ret i32 %mul
 }
 
